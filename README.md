@@ -4,9 +4,6 @@
 ## Live Website Link
 - [[ website link](https://ph-b10-a008.netlify.app/)]
 
-## Requirement Document Link
-- [Insert link to your requirement document here]
-
 ## React Fundamental Concepts Used in the Project
 - **JSX**: Allows us to write HTML-like syntax in JavaScript files.
 - **Components**: The application is built with multiple functional components, such as `Nav`, `Gadgets`, `Home`, and `GadgetDetail`.
