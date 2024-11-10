@@ -1,0 +1,182 @@
+[
+    
+    {
+      "product_id": "L002",
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://i.ibb.co.com/hV3SGWT/lap5.jpg",
+      "category": "Laptops",
+      "price": 1999,
+      "description": "Apple’s powerful laptop with M1 Pro chip and stunning Retina display.",
+      "specification": [
+        "14-inch Retina Display",
+        "Apple M1 Pro Chip",
+        "16GB RAM",
+        "512GB SSD",
+        "Up to 17 hours of battery life"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "L003",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/2hnd0fn/lap12.jpg",
+      "category": "Laptops",
+      "price": 1300,
+      "description": "Convertible laptop with a premium design and powerful performance.",
+      "specification": [
+        "13.3-inch Full HD Touch Display",
+        "Intel Core i7 Processor",
+        "16GB RAM",
+        "512GB SSD",
+        "360-degree hinge"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    
+    {
+      "product_id": "L005",
+      "product_title": "Lenovo ThinkPad X1",
+      "product_image": "https://i.ibb.co.com/rGTy8FC/lap7.jpg",
+      "category": "Laptops",
+      "price": 1600,
+      "description": "Business laptop with robust security features and solid build quality.",
+      "specification": [
+        "14-inch Full HD Display",
+        "Intel Core i7 Processor",
+        "16GB RAM",
+        "512GB SSD",
+        "Fingerprint Reader"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    
+    {
+      "product_id": "A001",
+      "product_title": "Logitech MX Master 3",
+      "product_image": "https://i.ibb.co.com/q7VqFyY/ax-1.jpg",
+      "category": "Accessories",
+      "price": 99,
+      "description": "Advanced wireless mouse with ergonomic design and customizable buttons.",
+      "specification": [
+        "Ergonomic design",
+        "Customizable buttons",
+        "4000 DPI sensor",
+        "Bluetooth connectivity"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+
+    {
+      "product_id": "A002",
+      "product_title": "Samsung T7 Portable SSD",
+      "product_image": "https://i.ibb.co.com/QDtmRmb/ax-2.jpg",
+      "category": "Accessories",
+      "price": 120,
+      "description": "Portable SSD with fast transfer speeds and compact design.",
+      "specification": [
+        "1TB storage",
+        "USB 3.2 Gen2",
+        "1050 MB/s transfer speed",
+        "Shock-resistant"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+   
+    {
+      "product_id": "SW002",
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://i.ibb.co.com/4N76hD6/wa-2.jpg",
+      "category": "Smart Watches",
+      "price": 279,
+      "description": "Feature-rich smartwatch with fitness tracking and long battery life.",
+      "specification": [
+        "1.4-inch AMOLED Display",
+        "BioActive sensor",
+        "GPS",
+        "Up to 3 days battery life"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+
+    {
+        "product_id": "L001",
+        "product_title": "Dell XPS 15",
+        "product_image": "https://i.ibb.co.com/v4QN6hw/lap2.jpg",
+        "category": "Laptops",
+        "price": 1500,
+        "description": "High-performance laptop with a stunning display and powerful internals.",
+        "specification": [
+          "15.6-inch 4K UHD Display",
+          "Intel Core i7 Processor",
+          "16GB RAM",
+          "512GB SSD",
+          "NVIDIA GTX 1650"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+  
+     {
+        "product_id": "L004",
+        "product_title": "Asus ROG Zephyrus",
+        "product_image": "https://i.ibb.co.com/m5mtY36/lap6.jpg",
+        "category": "Laptops",
+        "price": 1800,
+        "description": "Gaming laptop with high refresh rate and powerful GPU.",
+        "specification": [
+          "15.6-inch Full HD 144Hz Display",
+          "AMD Ryzen 9 Processor",
+          "16GB RAM",
+          "1TB SSD",
+          "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.5
+      }, 
+  
+      {
+        "product_id": "L006",
+        "product_title": "Acer Swift 3",
+        "product_image": "https://i.ibb.co.com/V2gcXZX/lap8.jpg",
+        "category": "Laptops",
+        "price": 800,
+        "description": "Lightweight and affordable laptop with long battery life.",
+        "specification": [
+          "14-inch Full HD Display",
+          "AMD Ryzen 5 Processor",
+          "8GB RAM",
+          "256GB SSD",
+          "12-hour battery life"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      
+      {
+        "product_id": "SW001",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/8BqYT8P/wa1.jpg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "Advanced smartwatch with health tracking and seamless integration with iPhone.",
+        "specification": [
+          "Always-on Retina Display",
+          "Heart Rate and ECG monitoring",
+          "Sleep tracking",
+          "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.9
+      }
+
+
+
+
+  ]
+  
