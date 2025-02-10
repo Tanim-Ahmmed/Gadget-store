@@ -1,5 +1,5 @@
 
-# Gadget Heaven
+# Gadget Store
 
 ## Live Website Link
 - [[ website link](https://ph-b10-a008.netlify.app/)]
